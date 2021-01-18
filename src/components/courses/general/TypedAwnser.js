@@ -2,3 +2,12 @@
 // This page will load a page that has an image of an experiment. Then any key info.
 // Then it will render balnk spaces based on he number of awnsers available.
 
+import React from 'react'
+
+export default function TypedAwnser() {
+  return (
+    <div>
+      
+    </div>
+  )
+}
