@@ -27,7 +27,7 @@ export default function Intro() {
         ductility, or machinability. Iron is the 4th most common element in the earths crust by weight. Thus learning how to extract iron 
         from iron ore kickstarted the iron age.
         
-        However the firts element to be fully purified was Phosphorous.</p>
+        However the first element to be fully purified was Phosphorous.</p>
     </div>
   )
 }
